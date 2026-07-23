@@ -1,0 +1,13 @@
+streamlit==1.32.0
+pandas
+pymysql
+yfinance
+langchain-core
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+beautifulsoup4
+OpenDartReader
+sentence-transformers
