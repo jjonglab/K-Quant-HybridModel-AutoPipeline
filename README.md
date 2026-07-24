@@ -4,7 +4,8 @@
 
 방대한 기업 사업보고서를 AI가 심층 분석하고, 핵심 재무 지표와 백테스트 결과를 실시간으로 제공하는 스마트 금융 어시스턴트입니다.
 
-![K-Quant 메인 홈 화면](https://github.com/user-attachments/assets/bca9ca83-7af2-449e-8623-85776e82c2d9)
+<img width="2880" height="1446" alt="image" src="https://github.com/user-attachments/assets/126e1e1f-fdfc-4489-9c9f-e7087a7eb481" />
+
 
 ---
 
